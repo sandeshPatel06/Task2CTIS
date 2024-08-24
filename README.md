@@ -1,9 +1,9 @@
-NAME : SANDESH PATEL
-COMPANY : CodTechItSolution
-ID : CT08DS5854
-DOMAIN : DATA SCIENCE
-DURASION : AUGUST TO SEPTEMBER
-Project manager : Mohammed Muzammil Ahmed
+NAME : SANDESH PATEL <br>
+COMPANY : CodTechItSolution <br>
+ID : CT08DS5854 <br>
+DOMAIN : DATA SCIENCE <br>
+DURASION : AUGUST TO SEPTEMBER <br>
+Project manager : Mohammed Muzammil Ahmed <br>
 
 # BMI Calculator Web Application
 
