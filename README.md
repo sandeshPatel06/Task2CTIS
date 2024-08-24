@@ -6,6 +6,7 @@ DURASION : AUGUST TO SEPTEMBER <br>
 Project manager : Mohammed Muzammil Ahmed <br>
 
 # BMI Calculator Web Application
+BMI, or Body Mass Index, is a measure used to assess body weight relative to height. It's calculated by dividing a person's weight in kilograms by their height in meters squared.
 
 ## Overview
 
