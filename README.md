@@ -30,8 +30,8 @@ This Flask web application provides a simple interface for calculating the Body 
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/sandeshpatel06/bmi-calculator.git
-    cd bmi-calculator
+    git clone https://github.com/sandeshPatel06/Task2CTIS.git
+    cd Task2ctis
     ```
 
 2. **Create and Activate a Virtual Environment**:
