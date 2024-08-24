@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BMI Calculator</title>
+    <link rel="stylesheet" href="/static/style.css" />
+    <link rel="icon" href="/static/favicon.ico" type="image/x-icon" />
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>BMI Calculator</h1>
+      <form id="bmi-form">
+        <input
+          type="number"
+          id="weight"
+          placeholder="Enter your weight in kg"
+          required
+        />
+        <input
+          type="number"
+          id="height"
+          placeholder="Enter your height in cm"
+          required
+        />
+        <input type="submit" value="Calculate BMI" />
+        <button type="reset">Reset</button>
+      </form>
+      <div id="result" class="result" style="display: none">
+        Your BMI is: <span id="bmi-value"></span> <br />
+        You are classified as: <span id="bmi-category"></span>
+      </div>
+      <div id="error" class="error" style="display: none"></div>
+    </div>
+  </body>
+  <script src="/static/script.js"></script>
+</html>
